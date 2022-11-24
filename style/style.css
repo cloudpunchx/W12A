@@ -1,0 +1,13 @@
+html {
+  background-color: #b7e4f9;
+}
+
+header {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+
+#searchButton {
+  margin-top: 25px;
+}/*# sourceMappingURL=style.css.map */
